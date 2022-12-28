@@ -21,17 +21,17 @@ Conference: ICML 2015
 
 Programming
 
-![image-20221228024104692](.\5.png)
+![image-20221228024104692](./5.png)
 
 Learning
 
-![image-20221228024314277](.\6.png)
+![image-20221228024314277](./6.png)
 
 
 
 Image distribution matters
 
-![image-20221228024547250](.\7.png)
+![image-20221228024547250](./7.png)
 
 
 
@@ -39,7 +39,7 @@ Image distribution matters
 
 Click curves(Feedback loops):
 
-![image-20221228024657410](.\8.png)
+![image-20221228024657410](./8.png)
 $$
 P(click|context,item,pos)=F(pos)*G(context,item)
 $$
@@ -54,9 +54,9 @@ false click probability -> 0.7 0.3
 
 Positive Feedback for C1:
 
-![image-20221228030105503](.\9.png)
+![image-20221228030105503](./9.png)
 
-![image-20221228030822742](.\10.png)
+![image-20221228030822742](./10.png)
 
 Exploration Issue: 
 
@@ -66,7 +66,7 @@ New items eligible for context C1 may have a hard time competing with the curren
 
 Negative Feedback for C2:
 
-![image-20221228031445548](.\11.png)
+![image-20221228031445548](./11.png)
 
 Expensive Oscillator:
 
@@ -77,9 +77,9 @@ Expensive Oscillator:
 
 Team work(Game theory/Complex Systems/Interaction?):
 
-![image-20221228031809726](.\12.png)
+![image-20221228031809726](./12.png)
 
-![image-20221228032037121](.\13.png)
+![image-20221228032037121](./13.png)
 
 All the exploration items are displayed with a very small font -> They receive less clicks
 
@@ -87,7 +87,7 @@ All the exploration items are displayed with a very small font -> They receive l
 
 Red team in response:
 
-![image-20221228032128315](.\14.png)
+![image-20221228032128315](./14.png)
 
 None of this is true!
 
@@ -95,7 +95,7 @@ None of this is true!
 
 All of them do their best job -> a bad outcome
 
-![image-20221228032312472](.\15.png)
+![image-20221228032312472](./15.png)
 
 ### Conclusion
 
@@ -110,17 +110,17 @@ ML as an exact science(like mathematics) or an empirical science(like physics)?
 
 ### Essential epistemology
 
-![image-20221228193702056](.\16.png)
+![image-20221228193702056](./16.png)
 
-![image-20221228193804248](.\17.png)
+![image-20221228193804248](./17.png)
 
-![image-20221228193822522](.\18.png)
+![image-20221228193822522](./18.png)
 
-![image-20221228193843066](.\19.png)
+![image-20221228193843066](./19.png)
 
 Don't mix genres
 
-![image-20221228193929312](.\20.png)
+![image-20221228193929312](./20.png)
 
 
 
@@ -128,7 +128,7 @@ Don't mix genres
 
 ML as an experimental science:
 
-![image-20221228194015993](.\21.png)
+![image-20221228194015993](./21.png)
 
 
 
@@ -155,17 +155,17 @@ Increased ambitions: Big Data
 
 Put one's hands in pockets?
 
-![image-20221228195009261](.\22.png)
+![image-20221228195009261](./22.png)
 
 **Discrepancy between the concept(recognizing the car) and the statistical reality**
 
-![image-20221228195129245](.\23.png)
+![image-20221228195129245](./23.png)
 
 
 
-![image-20221228195250702](.\24.png)
+![image-20221228195250702](./24.png)
 
-![image-20221228195318288](.\25.png)
+![image-20221228195318288](./25.png)
 
 ### Conclusion
 
@@ -204,9 +204,9 @@ How to better resist distribution shifts?
 
 + Very interesting properties when the data is [Zipf distributed](https://mathworld.wolfram.com/ZipfDistribution.html)
 
-![image-20221228200715379](.\26.png)
+![image-20221228200715379](./26.png)
 
-![image-20221228201814803](.\27.png)
+![image-20221228201814803](./27.png)
 
 [Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns)
 
@@ -225,7 +225,7 @@ Learning machines:
 
 
 
-![image-20221228202246237](.\28.png)
+![image-20221228202246237](./28.png)
 
 ## Conclusion
 
